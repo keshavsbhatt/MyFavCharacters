@@ -1,0 +1,28 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url("https://i1.faceprep.in/ProGrad/animated-background.png");
+    color: white;
+
+}
+
+header {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 10px;
+}
+
+.universe {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.images {
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+    grid-gap: 1em;
+}
+
+h2 {
+    text-align: center;
+}
